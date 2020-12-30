@@ -4,11 +4,11 @@
   "description": "A personal card for Tierney Cyren (@bitandbang)",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "bin/card.js"
+    "orangemn6": "bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com/orangemn6/orangemn6.git"
   },
   "homepage": "https://bnb.im",
   "scripts": {
