@@ -15,15 +15,15 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.white('Jacob Goldstein'),
+  name: chalk.yellow('Jacob Goldstein'),
   handle: chalk.white('orangemn6'),
   work: chalk.white('I do my own thing'),
   opensource: chalk.white('OpenSuspect') + chalk.green('⬢'),
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('orangemn6'),
   npm: chalk.gray('https://npmjs.com/') + chalk.red('~orangemn6'),
   github: chalk.gray('https://github.com/') + chalk.green('orangemn6'),
-  reddit: chalk.white('/u/linuxchromebookdude'),
-  web: chalk.cyan('https://jacobgoldstein.tk'),
+  reddit: chalk.magenta('/u/linuxchromebookdude'),
+  web: chalk.yellow('https://jacobgoldstein.tk'),
   matrix: chalk.cyan('@orangemn6:') + chalk.green('matrix.org'),
   npx: chalk.red('npx') + ' ' + chalk.cyan('orangemn6'),
   labelWork: chalk.white.bold('       Work:'),
