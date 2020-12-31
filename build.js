@@ -23,11 +23,13 @@ const data = {
   npm: chalk.gray('https://npmjs.com/') + chalk.red('~orangemn6'),
   github: chalk.gray('https://github.com/') + chalk.green('orangemn6'),
   web: chalk.cyan('https://jacobgoldstein.tk'),
-  npx: chalk.red('npx') + ' ' + chalk.white(' orangemn6'),
+  matrix: chalk.cyan('@orangemn6:') + chalk.green('matrix.org'),
+  npx: chalk.red('npx') + ' ' + chalk.cyan('orangemn6'),
   labelWork: chalk.white.bold('       Work:'),
   labelOpenSource: chalk.white.bold('Open Source:'),
   labelTwitter: chalk.white.bold('    Twitter:'),
   labelnpm: chalk.white.bold('        npm:'),
+  labelMatrix: chalk.white.bold('     Matrix:'),
   labelGitHub: chalk.white.bold('     GitHub:'),
   labelWeb: chalk.white.bold('        Web:'),
   labelCard: chalk.white.bold('       Card:')
@@ -40,6 +42,7 @@ const working = `${data.labelWork}  ${data.work}`
 const opensourcing = `${data.labelOpenSource}  ${data.opensource}`
 const twittering = `${data.labelTwitter}  ${data.twitter}`
 const npming = `${data.labelnpm}  ${data.npm}`
+const matrixing = `${data.labelMatrix}  ${data.matrix}`
 const githubing = `${data.labelGitHub}  ${data.github}`
 const webing = `${data.labelWeb}  ${data.web}`
 const carding = `${data.labelCard}  ${data.npx}`
@@ -52,6 +55,7 @@ const output = heading + // data.name + data.handle
                twittering + newline + // data.labelTwitter + data.twitter
                npming + newline + // data.labelnpm + data.npm
                githubing + newline + // data.labelGitHub + data.github
+	       matrixing + newline + // data.labelMatrix + data.matrix
                webing + newline + newline + // data.labelWeb + data.web
                carding // data.labelCard + data.npx
 
