@@ -22,6 +22,7 @@ const data = {
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('orangemn6'),
   npm: chalk.gray('https://npmjs.com/') + chalk.red('~orangemn6'),
   github: chalk.gray('https://github.com/') + chalk.green('orangemn6'),
+  reddit: chalk.white('/u/linuxchromebookdude'),
   web: chalk.cyan('https://jacobgoldstein.tk'),
   matrix: chalk.cyan('@orangemn6:') + chalk.green('matrix.org'),
   npx: chalk.red('npx') + ' ' + chalk.cyan('orangemn6'),
@@ -32,7 +33,8 @@ const data = {
   labelMatrix: chalk.white.bold('     Matrix:'),
   labelGitHub: chalk.white.bold('     GitHub:'),
   labelWeb: chalk.white.bold('        Web:'),
-  labelCard: chalk.white.bold('       Card:')
+  labelCard: chalk.white.bold('       Card:'),
+  labelreddit: chalk.white.bold('     Reddit:')
 }
 
 // Actual strings we're going to output
@@ -46,6 +48,7 @@ const matrixing = `${data.labelMatrix}  ${data.matrix}`
 const githubing = `${data.labelGitHub}  ${data.github}`
 const webing = `${data.labelWeb}  ${data.web}`
 const carding = `${data.labelCard}  ${data.npx}`
+const redditing = `${data.labelreddit}  ${data.reddit}`
 
 // Put all our output together into a single variable so we can use boxen effectively
 const output = heading + // data.name + data.handle
@@ -56,7 +59,9 @@ const output = heading + // data.name + data.handle
                npming + newline + // data.labelnpm + data.npm
                githubing + newline + // data.labelGitHub + data.github
 	       matrixing + newline + // data.labelMatrix + data.matrix
+	       redditing + newline + // data.labelreddit + data.reddit
                webing + newline + newline + // data.labelWeb + data.web
-               carding // data.labelCard + data.npx
+	       carding // data.labelCard + data.npx
+
 
 fs.writeFileSync(path.join(__dirname, 'bin/output'), chalk.green(boxen(output, options)))
