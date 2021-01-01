@@ -9,7 +9,9 @@ const output = fs.readFileSync(path.join(__dirname, 'output'), 'utf8')
 console.log(output)
 const inquirer = require('inquirer')
 const open = require('open')
+const clear = require("clear")
 const chalk = require('chalk')
+
 
 const prompt = inquirer.createPromptModule();
 

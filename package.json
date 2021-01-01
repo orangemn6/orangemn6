@@ -41,6 +41,7 @@
     "url": "https://github.com/bnb/bitandbang/issues"
   },
   "dependencies": {
+    "clear": "^0.1.0",
     "inquirer": "^7.3.3",
     "open": "^7.3.0"
   },

@@ -7,7 +7,9 @@ const fs = require('fs')
 const inquirer = require('inquirer')
 const path = require('path')
 const open = require('open')
+const clear = require('clear')
 
+clear();
 
 // Define options for Boxen
 const options = {
