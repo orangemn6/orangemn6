@@ -32,7 +32,21 @@ const questions = [
           console.log("\nDone, see you soon.\n");
         }
       },
-      {
+       {
+        name: `Send me a ${chalk.green.bold("message on matrix")}?`,
+        value: () => {
+          open("https://matrix.to/#/@orangemn6:matrix.org");
+          console.log("\nDone, I will write back soon!.\n");
+        }
+      },
+       {
+        name: `Send me a ${chalk.green.bold("message on matrix")}?`,
+        value: () => {
+          open("https://matrix.to/#/@orangemn6:matrix.org");
+          console.log("\nDone, I will write back soon!.\n");
+       }
+      },
+       {
         name: "Just quit.",
         value: () => {
           console.log("Ok, bye.\n");
