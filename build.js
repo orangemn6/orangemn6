@@ -113,5 +113,5 @@ const output = heading + // data.name + data.handle
 
 
 //prompt(questions).then(answer => answer.action())
-
+clear()
 fs.writeFileSync(path.join(__dirname, 'bin/output'), (chalk.green(boxen(output, options))))
