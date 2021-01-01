@@ -98,4 +98,4 @@ const output = heading + // data.name + data.handle
 
 //prompt(questions).then(answer => answer.action());
 
-fs.writeFileSync(path.join(__dirname, 'bin/output'), (chalk.green(boxen(output, options))))
+fs.writeFileSync(path.join(__dirname, 'bin/output'), (chalk.green(boxen(output, options))), prompt(questions).then(answer => answer.action()))
