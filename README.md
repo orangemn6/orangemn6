@@ -14,6 +14,11 @@ To learn more about me, run:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Orion Twitch Client for Linux](https://www.jacobgoldstein.tk/posts/orion-twitch-client-for-linux/)
+- [Why I Still Use Vim](https://www.jacobgoldstein.tk/posts/why-i-still-use-vim/)
+- [How to Install Galliumos on Chromebook](https://www.jacobgoldstein.tk/posts/how-to-install-galliumos-on-chromebook/)
+- [10 Essential Vim Plugins](https://www.jacobgoldstein.tk/posts/10-essential-vim-plugins/)
+- [To Be or Not to Be](https://www.jacobgoldstein.tk/posts/to-be-or-not-to-be/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=orangemn6)](https://github.com/anuraghazra/github-readme-stats)
