@@ -41,7 +41,8 @@
     "url": "https://github.com/bnb/bitandbang/issues"
   },
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "inquirer": "^7.3.3",
+    "open": "^7.3.0"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"

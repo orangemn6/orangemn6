@@ -6,6 +6,8 @@ const boxen = require('boxen')
 const fs = require('fs')
 const inquirer = require('inquirer')
 const path = require('path')
+const open = require('open')
+
 
 // Define options for Boxen
 const options = {
@@ -14,6 +16,33 @@ const options = {
 //  borderStyle: 'round'
   borderStyle: 'double'
 }
+
+const prompt = inquirer.createPromptModule();
+
+const questions = [
+  {
+    type: "list",
+    name: "action",
+    message: "What you want to do?",
+    choices: [
+      {
+        name: `Send me an ${chalk.green.bold("email")}?`,
+        value: () => {
+          open("mailto:linuxjacob@mail.com");
+          console.log("\nDone, see you soon.\n");
+        }
+      },
+      {
+        name: "Just quit.",
+        value: () => {
+          console.log("Ok, bye.\n");
+        },
+      }
+    ]
+  }
+];
+
+
 
 // Text + chalk definitions
 const data = {
@@ -64,6 +93,8 @@ const output = heading + // data.name + data.handle
 	       redditing + newline + // data.labelreddit + data.reddit
                webing + newline + newline + // data.labelWeb + data.web
 	       carding // data.labelCard + data.npx
+
+
 
 
 fs.writeFileSync(path.join(__dirname, 'bin/output'), chalk.green(boxen(output, options)))
