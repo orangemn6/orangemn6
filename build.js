@@ -16,7 +16,7 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.yellow('Jacob Goldstein'),
+  name: chalk.yellow('           Jacob Goldstein'),
   handle: chalk.white('orangemn6'),
   work: chalk.cyan.bold('I was born to make mistakes, not fake perfection'),
   opensource: chalk.white('  ') + chalk.green('  '),
