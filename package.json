@@ -40,7 +40,9 @@
   "bugs": {
     "url": "https://github.com/bnb/bitandbang/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   }

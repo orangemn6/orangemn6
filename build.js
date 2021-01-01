@@ -4,6 +4,7 @@
 const chalk = require('chalk')
 const boxen = require('boxen')
 const fs = require('fs')
+const inquirer = require('inquirer')
 const path = require('path')
 
 // Define options for Boxen
