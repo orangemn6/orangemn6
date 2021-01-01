@@ -7,3 +7,34 @@ const fs = require('fs')
 const path = require('path')
 const output = fs.readFileSync(path.join(__dirname, 'output'), 'utf8')
 console.log(output)
+const inquirer = require('inquirer')
+const open = require('open')
+const chalk = require('chalk')
+
+const prompt = inquirer.createPromptModule();
+
+const questions = [
+  {
+    type: "list",
+    name: "action",
+    message: "What you want to do?",
+    choices: [
+      {
+        name: `Send me an ${chalk.green.bold("email")}?`,
+        value: () => {
+          open("mailto:linuxjacob@mail.com");
+          console.log("\nDone, see you soon.\n");
+        }
+      },
+      {
+        name: "Just quit.",
+        value: () => {
+          console.log("Ok, bye.\n");
+        },
+      }
+    ]
+  }
+];
+
+
+prompt(questions).then(answer => answer.action())
