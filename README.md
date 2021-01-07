@@ -14,11 +14,11 @@ To learn more about me, run:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Worst MCU Plotholes](https://www.jacobgoldstein.tk/posts/worst-mcu-plotholes/)
 - [Min Browser Almost Good Enough](https://www.jacobgoldstein.tk/posts/min-browser-almost-good-enough/)
 - [Install Arch Linux](https://www.jacobgoldstein.tk/posts/install-arch-linux/)
 - [Using Markdown in Vim](https://www.jacobgoldstein.tk/posts/using-markdown-in-vim/)
 - [Simple Programming Jokes](https://www.jacobgoldstein.tk/posts/simple-programming-jokes/)
-- [Boost Your Productivity With Markdown](https://www.jacobgoldstein.tk/posts/boost-your-productivity-with-markdown/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=orangemn6)](https://github.com/anuraghazra/github-readme-stats)
