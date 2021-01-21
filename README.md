@@ -10,6 +10,7 @@ To learn more about me, run:
 
 - Reddit: [LinuxChromebookDude](https://reddit.com/u/LinuxChromebookDude)
 - Matrix: @orangemn6:matrix.org
+- Discord: Orangemn6#9427
 - Github: [orangemn6](https://github.com/orangemn6)
 
 # Blog posts
