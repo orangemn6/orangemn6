@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/orangemn6/orangemn6.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://jacobgoldstein.tk",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
@@ -26,7 +26,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Jacob Goldstein <linuxjacob@mail.com> (http://jacobgoldstein.tk)",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -38,7 +38,7 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
+    "url": "https://github.com/orangemn6/orangemn6/issues"
   },
   "dependencies": {
     "clear": "^0.1.0",
