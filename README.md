@@ -2,8 +2,11 @@
 
 It's me!
 
-To learn more about me, run:
-`npx orangemn6`
+# About
+
+About me!
+
+I am a web developer and linux user, who **loves** to tinker and experiment.
 
 
 # Contact Me:
