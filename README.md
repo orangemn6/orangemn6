@@ -18,11 +18,11 @@ I am a web developer and linux user, who **loves** to tinker and experiment.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Difference Between Animation and Transition in CSS](https://blog.orangemn6.xyz/difference-between-animation-and-transition-in-css)
 - [70+ Free Design Resources For Developers](https://blog.orangemn6.xyz/70-free-design-resources-for-developers)
 - [Convert a React App to Vue.js](https://blog.orangemn6.xyz/convert-a-react-app-to-vuejs)
 - [Why Everyone Hates Electron.js and Why I Love It](https://blog.orangemn6.xyz/why-everyone-hates-electronjs-and-why-i-love-it)
 - [Making a Simple Url Shortner With Netlify](https://blog.orangemn6.xyz/making-a-simple-url-shortner-with-netlify)
+- [Making a Minecraft Server on IdleyHost](https://blog.orangemn6.xyz/making-a-minecraft-server-on-idleyhost)
 <!-- BLOG-POST-LIST:END -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=orangemn6)](https://github.com/anuraghazra/github-readme-stats)
