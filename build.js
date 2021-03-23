@@ -62,11 +62,12 @@ const questions = [
 
 // Text + chalk definitions
 const data = {
-  name: chalk.yellow('           Jacob Goldstein'),
-  handle: chalk.white('orangemn6'),
+  name: chalk.yellow('           Orangemn6'),
+  handle: chalk.white('web developer'),
   work: chalk.cyan.bold('I was born to make mistakes, not fake perfection'),
   opensource: chalk.white('  ') + chalk.green('  '),
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('orangemn6'),
+  discord: chalk.gray('Orangemn6') + chalk.cyan('#9427'),
   npm: chalk.gray('https://npmjs.com/') + chalk.red('~orangemn6'),
   github: chalk.gray('https://github.com/') + chalk.green('orangemn6'),
   reddit: chalk.magenta('/u/linuxchromebookdude'),
@@ -81,7 +82,8 @@ const data = {
   labelGitHub: chalk.white.bold('     GitHub:'),
   labelWeb: chalk.white.bold('        Web:'),
   labelCard: chalk.white.bold('       Card:'),
-  labelreddit: chalk.white.bold('     Reddit:')
+  labelreddit: chalk.white.bold('     Reddit:'),
+  labelDiscord: chalk.white.bold('    Discord:')
 }
 
 // Actual strings we're going to output
@@ -96,7 +98,7 @@ const githubing = `${data.labelGitHub}  ${data.github}`
 const webing = `${data.labelWeb}  ${data.web}`
 const carding = `${data.labelCard}  ${data.npx}`
 const redditing = `${data.labelreddit}  ${data.reddit}`
-
+const discording = `${data.labelDiscord}  ${data.discord}`
 // Put all our output together into a single variable so we can use boxen effectively
 const output = heading + // data.name + data.handle
                newline + newline + // Add one whole blank line
@@ -107,6 +109,7 @@ const output = heading + // data.name + data.handle
                githubing + newline + // data.labelGitHub + data.github
 	       matrixing + newline + // data.labelMatrix + data.matrix
 	       redditing + newline + // data.labelreddit + data.reddit
+	       discording + newline + //data.labelDiscord + data.discord
                webing + newline + newline + // data.labelWeb + data.web
 	       carding // data.labelCard + data.npx
 
