@@ -18,11 +18,11 @@ I am a web developer and linux user, who **loves** to tinker and experiment.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Lifesaving HTML/CSS Tricks](https://blog.orangemn6.xyz/10-lifesaving-htmlcss-tricks)
 - [6 CSS Properties Nobody Talks About](https://blog.orangemn6.xyz/6-css-properties-nobody-talks-about)
 - [5 HTML Tricks Nobody is Talking About](https://blog.orangemn6.xyz/5-html-tricks-nobody-is-talking-about)
 - [13 VSCode Extensions That Every Web Developer Should Use](https://blog.orangemn6.xyz/13-vscode-extensions-that-every-web-developer-should-use)
 - [13 Reasons Why You Should Use Netlify](https://blog.orangemn6.xyz/13-reasons-why-you-should-use-netlify)
-- [SEO Best Practices](https://blog.orangemn6.xyz/seo-best-practices)
 <!-- BLOG-POST-LIST:END -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=orangemn6)](https://github.com/anuraghazra/github-readme-stats)
