@@ -71,7 +71,7 @@ const data = {
   npm: chalk.gray('https://npmjs.com/') + chalk.red('~orangemn6'),
   github: chalk.gray('https://github.com/') + chalk.green('orangemn6'),
   reddit: chalk.magenta('/u/linuxchromebookdude'),
-  web: chalk.yellow('https://jacobgoldstein.tk'),
+  web: chalk.yellow('https://orangemn6.xyz'),
   matrix: chalk.cyan('@orangemn6:') + chalk.green('matrix.org'),
   npx: chalk.red('npx') + ' ' + chalk.cyan('orangemn6'),
   labelWork: chalk.white.bold(''),
