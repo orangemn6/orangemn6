@@ -1,6 +1,4 @@
-# Welcome!
-
-It's me!
+![Header](https://github.com/orangemn6/orangemn6/raw/master/header.png)
 
 # About
 
