@@ -6,7 +6,7 @@ It's me!
 
 About me!
 
-I am a web developer and linux user, who **loves** to tinker and experiment.
+I am a web developer and linux user, who **loves** to tinker and experiment. 
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,6 +18,7 @@ I am a web developer and linux user, who **loves** to tinker and experiment.
 - Matrix: @orangemn6:matrix.org
 - Discord: Orangemn6#9427
 - Github: [orangemn6](https://github.com/orangemn6)
+- Twitter: [orangemn6](https://twitter.com/orangemn6)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
