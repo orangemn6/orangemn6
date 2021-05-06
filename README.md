@@ -20,11 +20,11 @@ I am a web developer and linux user, who **loves** to tinker and experiment.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 GitHub Repos To Bookmark Right Now](https://blog.orangemn6.xyz/top-10-github-repos-to-bookmark-right-now)
+- [2 Excellent Websites For Web Developers](https://blog.orangemn6.xyz/2-excellent-websites-for-web-developers)
 - [How Web Developers Can Build an Effective Portfolio](https://blog.orangemn6.xyz/how-web-developers-can-build-an-effective-portfolio)
 - [Best Tricks to Make Your Node.js Web App Faster](https://blog.orangemn6.xyz/best-tricks-to-make-your-nodejs-web-app-faster)
 - [10 amazing CSS generators for UI Design](https://blog.orangemn6.xyz/10-amazing-css-generators-for-ui-design)
-- [11 Frontend tricks that most Developers don’t know about](https://blog.orangemn6.xyz/11-frontend-tricks-that-most-developers-dont-know-about)
-- [21 Website Animation Tools That Can Level-up Your Web Design](https://blog.orangemn6.xyz/21-website-animation-tools-that-can-level-up-your-web-design)
 <!-- BLOG-POST-LIST:END -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=orangemn6)](https://github.com/anuraghazra/github-readme-stats)
