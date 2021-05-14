@@ -23,6 +23,8 @@ I am a web developer and linux user, who **loves** to tinker and experiment.
 
 - ETH: `0x9822EAd931E40C83A4Ef30d780F706c1D5888e49`
 
+<script src="https://cdn.rawgit.com/eth-button/eth-button/09673e85d517452e18a5248b96115bc552a0ac01/dist/eth-button.js" data-address="0x9822EAd931E40C83A4Ef30d780F706c1D5888e49" data-meta="eth-button"></script>
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [8 Websites You Should Visit To Learn Web Development](https://blog.orangemn6.xyz/8-websites-you-should-visit-to-learn-web-development)
