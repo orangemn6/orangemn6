@@ -18,6 +18,11 @@ I am a web developer and linux user, who **loves** to tinker and experiment.
 - Github: [orangemn6](https://github.com/orangemn6)
 - Twitter: [orangemn6](https://twitter.com/orangemn6)
 
+
+# Support Me
+
+- ETH: `0x9822EAd931E40C83A4Ef30d780F706c1D5888e49`
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [8 Websites You Should Visit To Learn Web Development](https://blog.orangemn6.xyz/8-websites-you-should-visit-to-learn-web-development)
@@ -29,6 +34,3 @@ I am a web developer and linux user, who **loves** to tinker and experiment.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=orangemn6)](https://github.com/anuraghazra/github-readme-stats)
 
-# Support Me
-
-ETH: `0x9822EAd931E40C83A4Ef30d780F706c1D5888e49`
