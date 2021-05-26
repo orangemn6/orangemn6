@@ -25,11 +25,11 @@ I am a web developer and linux user, who **loves** to tinker and experiment.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Changes in Sublime Text 4](https://blog.orangemn6.xyz/new-changes-in-sublime-text-4)
 - [Becoming a Productive Developer](https://blog.orangemn6.xyz/becoming-a-productive-developer)
 - [3 Things You Can Do to Improve Your Coding Skills](https://blog.orangemn6.xyz/3-things-you-can-do-to-improve-your-coding-skills)
 - [How to make ultra-smooth animations in Figma Motion plugin](https://blog.orangemn6.xyz/how-to-make-ultra-smooth-animations-in-figma-motion-plugin)
 - [8 Websites You Should Visit To Learn Web Development](https://blog.orangemn6.xyz/8-websites-you-should-visit-to-learn-web-development)
-- [Top 10 User Frustrations on the Web](https://blog.orangemn6.xyz/top-10-user-frustrations-on-the-web)
 <!-- BLOG-POST-LIST:END -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=orangemn6)](https://github.com/anuraghazra/github-readme-stats)
