@@ -22,6 +22,7 @@ I am a web developer and linux user, who **loves** to tinker and experiment.
 # Support Me
 
 - ETH: `0x9822EAd931E40C83A4Ef30d780F706c1D5888e49`
+- Send me a BAT tip on Brave Browser
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
