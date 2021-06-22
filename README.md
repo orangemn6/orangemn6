@@ -21,11 +21,11 @@ I am a web developer and linux user, who **loves** to tinker and experiment.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [6 UI Concepts That Will Make You a Front End Ninja](https://blog.orangemn6.xyz/6-ui-concepts-that-will-make-you-a-front-end-ninja)
 - [The Chatify Nexus Chat App](https://blog.orangemn6.xyz/the-chatify-nexus-chat-app)
 - [New Changes in Sublime Text 4](https://blog.orangemn6.xyz/new-changes-in-sublime-text-4)
 - [Becoming a Productive Developer](https://blog.orangemn6.xyz/becoming-a-productive-developer)
 - [3 Things You Can Do to Improve Your Coding Skills](https://blog.orangemn6.xyz/3-things-you-can-do-to-improve-your-coding-skills)
-- [How to make ultra-smooth animations in Figma Motion plugin](https://blog.orangemn6.xyz/how-to-make-ultra-smooth-animations-in-figma-motion-plugin)
 <!-- BLOG-POST-LIST:END -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=orangemn6)](https://github.com/anuraghazra/github-readme-stats)
