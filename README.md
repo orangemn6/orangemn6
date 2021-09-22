@@ -21,11 +21,11 @@ I am a web developer and linux user, who **loves** to tinker and experiment.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Not Getting Burnt Out in Web Development](https://blog.orangemn6.xyz/not-getting-burnt-out-in-web-development)
 - [Plagiarism in Free Software](https://blog.orangemn6.xyz/plagiarism-in-free-software-1)
 - [Improve Page Rendering Speed Using Only CSS](https://blog.orangemn6.xyz/improve-page-rendering-speed-using-only-css)
 - [“Double Quotes” vs ‘Single Quotes’ vs `Backticks` in JavaScript](https://blog.orangemn6.xyz/double-quotes-vs-single-quotes-vs-backticks-in-javascript)
 - [My Top 12 Web Tools To Make Developers’ Life Easier](https://blog.orangemn6.xyz/my-top-12-web-tools-to-make-developers-life-easier)
+- [Stop Writing JavaScript Like This](https://blog.orangemn6.xyz/stop-writing-javascript-like-this)
 <!-- BLOG-POST-LIST:END -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=orangemn6)](https://github.com/anuraghazra/github-readme-stats)
