@@ -14,7 +14,7 @@ I am a web developer and linux user, who **loves** to tinker and experiment.
 
 - Reddit: [LinuxChromebookDude](https://reddit.com/u/LinuxChromebookDude)
 - Matrix: @orangemn6:matrix.org
-- Discord: Orangemn6#9427
+- Discord: Orangemn6#9427style="text-align: right" 
 - Github: [orangemn6](https://github.com/orangemn6)
 - Twitter: [orangemn6](https://twitter.com/orangemn6)
 
@@ -30,3 +30,4 @@ I am a web developer and linux user, who **loves** to tinker and experiment.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=orangemn6)](https://github.com/anuraghazra/github-readme-stats)
 
+<a style="text-align: right" href="https://app.daily.dev/Orangemn6"><img src="https://api.daily.dev/devcards/bd24c2005c4843f98461fc39b4e94955.png?r=udj" width="400" alt="Orangemn6's Dev Card"/></a>
