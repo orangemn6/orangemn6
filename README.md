@@ -28,10 +28,12 @@ I am a web developer and linux user, who **loves** to tinker and experiment.
 - [My Top 12 Web Tools To Make Developers’ Life Easier](https://blog.orangemn6.xyz/my-top-12-web-tools-to-make-developers-life-easier)
 <!-- BLOG-POST-LIST:END -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cs8pozj2ysp2tnlk7738fignc&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=cs8pozj2ysp2tnlk7738fignc&redirect=true)
+<p align=right>
+
+</p>
 
 [![snk](https://raw.githubusercontent.com/orangemn6/orangemn6/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=orangemn6)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=orangemn6)](https://github.com/anuraghazra/github-readme-stats) ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cs8pozj2ysp2tnlk7738fignc&cover_image=true&theme=compact)
 
 
