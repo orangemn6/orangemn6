@@ -30,6 +30,8 @@ I am a web developer and linux user, who **loves** to tinker and experiment.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cs8pozj2ysp2tnlk7738fignc&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=cs8pozj2ysp2tnlk7738fignc&redirect=true)
 
+[![snk](dist/github-snake.gif)](https://github.com/Platane/snk)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=orangemn6)](https://github.com/anuraghazra/github-readme-stats)
 
 
