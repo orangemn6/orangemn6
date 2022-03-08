@@ -19,21 +19,4 @@ I am a web developer and linux user, who **loves** to tinker and experiment.
 - Twitter: [orangemn6](https://twitter.com/orangemn6)
 
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Not Getting Burnt Out in Web Development](https://blog.orangemn6.xyz/not-getting-burnt-out-in-web-development)
-- [Plagiarism in Free Software](https://blog.orangemn6.xyz/plagiarism-in-free-software-1)
-- [Improve Page Rendering Speed Using Only CSS](https://blog.orangemn6.xyz/improve-page-rendering-speed-using-only-css)
-- [“Double Quotes” vs ‘Single Quotes’ vs `Backticks` in JavaScript](https://blog.orangemn6.xyz/double-quotes-vs-single-quotes-vs-backticks-in-javascript)
-- [My Top 12 Web Tools To Make Developers’ Life Easier](https://blog.orangemn6.xyz/my-top-12-web-tools-to-make-developers-life-easier)
-<!-- BLOG-POST-LIST:END -->
-
-<p align=right>
-
-</p>
-
 [![snk](https://raw.githubusercontent.com/orangemn6/orangemn6/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=orangemn6)](https://github.com/anuraghazra/github-readme-stats) ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cs8pozj2ysp2tnlk7738fignc&cover_image=true&theme=compact)
-
-
