@@ -1,13 +1,13 @@
 ![Header](https://github.com/orangemn6/orangemn6/raw/master/header.png)
 
-# About
-
-About me!
-
-I am a web developer and linux user, who **loves** to tinker and experiment. 
+<h1 align="center"> About me!</h1>
+<div align="center">
 
 
-<h3 align="left">Languages and Tools:</h3>
+I am a web developer and linux user, who **loves** to tinker and experiment. I'm also a huge 3d printing nerd.
+</div>
+
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=git,js,vim,cloudflare,css,ts,nodejs,nextjs" />
