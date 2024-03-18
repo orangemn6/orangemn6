@@ -3,15 +3,6 @@
 <div align="center">
 
 
-I am a student and linux user, who loves to tinker and experiment. I'm also a huge 3d printing nerd.
+I am a student who loves to tinker and experiment. I like 3d printing and robotics.
 </div>
-
-
-# Contact Me:
-
-
-
-
-[![snk](https://raw.githubusercontent.com/orangemn6/orangemn6/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
-
 	
