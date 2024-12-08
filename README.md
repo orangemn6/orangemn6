@@ -4,5 +4,8 @@
 
 
 I am a student who loves to tinker and experiment. I like 3d printing and robotics.
+
+Personal website: https://jacobg.co/
+Digital Garden: https://docs.jacobg.co/
 </div>
 	
