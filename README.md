@@ -5,6 +5,6 @@
 
 Student. I like 3d printing and robotics.
 
-Personal website: https://jacobg.co/
+Personal website: 
 </div>
 	
